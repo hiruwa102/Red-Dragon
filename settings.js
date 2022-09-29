@@ -11,8 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `┃━━━━━━━━━━━━━●►┃◆ 𝗛𝗶,😊┃◆කොහොමද ඔයාට?┃◆මාව හෙව්වද ?🤭┃◆හ්ම්.ඔන්න මන් ආවා.┃◆𝗚𝗼𝗼𝗱 𝗟𝘂𝗰𝗸┃◆❤️..........😘┃━━━━━━━━━━━━━●►` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,31 +28,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94704815387'] // owner number
+global.ownername = "HiRu OffiCaiL❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: github.com/hiruwa102" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/Rh1G4xZ/744926.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "ture" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
-global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
+global.welcom_msg = "true" // Welcome / 🌹Bye 😒   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94704815387']
+global.ownertag = '+94704815387' //your tag number
+global.botname = 'Qᵘᵉᵉⁿ ᴵˢʰᵘ⁻ᴹᴰ' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.author = "Qᵘᵉᵉⁿ ᴵˢʰᵘ⁻ᴹᴰ" // sticker author
+global.dragonemoji = '🌹' // Menu emoji
+global.footer = '▆ ▇ █ Queen Ishu-MD █ ▇ ▆' //
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
