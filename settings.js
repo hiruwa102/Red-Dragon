@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `┃━━━━━━━━━━━━━●►┃◆ 𝗛𝗶,😊┃◆කොහොමද ඔයාට?┃◆මාව හෙව්වද ?🤭┃◆හ්ම්.ඔන්න මන් ආවා.┃◆𝗚𝗼𝗼𝗱 𝗟𝘂𝗰𝗸┃◆❤️..........😘┃━━━━━━━━━━━━━●►` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `┃━━━━━━━━━━━━━●►┃◆ 𝗛𝗶,` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -51,7 +51,7 @@ global.ownertag = '+94704815387' //your tag number
 global.botname = 'Qᵘᵉᵉⁿ ᴵˢʰᵘ⁻ᴹᴰ' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "Qᵘᵉᵉⁿ ᴵˢʰᵘ⁻ᴹᴰ" // sticker author
-global.dragonemoji = '🎃' // Menu emoji
+global.dragonemoji = '🐭' // Menu emoji
 global.footer = '▆ ▇ █ Queen Ishu-MD █ ▇ ▆' //
 
 //database
@@ -64,7 +64,7 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    admin: 'Only Admins can use it!😼',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
